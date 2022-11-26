@@ -6,6 +6,7 @@
 		<Authors>Karol Błażejczyk</Authors>
 		<Description>A simple implementation of Base64-Url encoding</Description>
 		<Copyright>Copyright © 2022 Karol Błażejczyk</Copyright>
+		<PackageId>Base64-Url</PackageId>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/blazkaro/Base64Url</PackageProjectUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
@@ -13,7 +14,6 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>base64url;encoding;encoder;base64;decoding;decoder;validator</PackageTags>
 		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<Title>Base64Url encoder, decoder and validator</Title>
 		<NeutralLanguage>en</NeutralLanguage>
 		<Version>1.0.0</Version>
