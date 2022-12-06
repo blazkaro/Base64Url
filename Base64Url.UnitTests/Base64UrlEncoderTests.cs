@@ -32,7 +32,7 @@ public class Base64UrlEncoderTests
     [InlineData(71)]
     public void Decoding_Returns_Valid_Data(int bytesCount)
     {
-        var data = RandomNumberGenerator.GetBytes(27);
+        var data = RandomNumberGenerator.GetBytes(bytesCount);
 
         var base64url = Base64UrlEncoder.Encode(data);
 
